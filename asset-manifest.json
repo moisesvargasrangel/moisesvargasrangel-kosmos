@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moisesvargasrangel-kosmos/static/css/main.dcebd2cd.css",
+    "main.js": "/moisesvargasrangel-kosmos/static/js/main.8d1a5896.js",
+    "static/js/787.09cc5e21.chunk.js": "/moisesvargasrangel-kosmos/static/js/787.09cc5e21.chunk.js",
+    "static/media/logo.svg": "/moisesvargasrangel-kosmos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/moisesvargasrangel-kosmos/index.html",
+    "main.dcebd2cd.css.map": "/moisesvargasrangel-kosmos/static/css/main.dcebd2cd.css.map",
+    "main.8d1a5896.js.map": "/moisesvargasrangel-kosmos/static/js/main.8d1a5896.js.map",
+    "787.09cc5e21.chunk.js.map": "/moisesvargasrangel-kosmos/static/js/787.09cc5e21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcebd2cd.css",
+    "static/js/main.8d1a5896.js"
+  ]
+}
